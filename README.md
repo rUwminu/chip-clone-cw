@@ -3,6 +3,8 @@
 A frontend practice challenge project given from <a href='https://www.codewell.cc/'>CodeWell</a>, 
 given beginner the simple modern Ui layout of landing page to get own hand on.
 
+Live View <a href='https://ruwminu.github.io/chip-clone-cw/'>Chip Clone</a> 
+
 # Other Similar Project
 
 <a href='https://ruwminu.github.io/snipper-clone-cw/'>Snipper Clone</a> <br/>
